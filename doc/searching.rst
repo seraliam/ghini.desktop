@@ -163,3 +163,16 @@ property name choose how the properties will be combined in the search
 query.
 
 When you are done building your query click OK to perform the search.
+
+Búsqueda Binomial
+=================
+Tambien se puede realizar una búsqueda en la base de datos si se conoce la especie, solo colocando en buscador las iniciales del genero y la especie, hay que tener en cuenta que la primera letra del genero es importante que lo anotemos en mayúscula, al no anotarlo de esta manera el resultado de la búsqueda incluira una larga lista.
+La forma de realizar la búsqueda seria de la siguiente forma:
+So ha
+Estas serian las iniciales para Solanum hayesii
+Esta es una forma rápida para realizar la búsqueda si conocemos la especie a consultar
+
+También se puede llevar a cabo uma búsqueda de especies en la base de datos si se conoce el nombre Vernáculo (nombre común). Esta búsqueda se puede realizar de la siguiente forma:
+ver like pal%
+esta sería para buscar la palma real 
+
