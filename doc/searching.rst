@@ -166,12 +166,12 @@ When you are done building your query click OK to perform the search.
 
 Búsqueda Binomial
 =================
-Tambien se puede realizar una búsqueda en la base de datos si se conoce la especie, solo colocando en buscador las iniciales del genero y la especie, hay que tener en cuenta que la primera letra del genero es importante que lo anotemos en mayúscula, al no anotarlo de esta manera el resultado de la búsqueda incluira una larga lista.
-La forma de realizar la búsqueda seria de la siguiente forma:
+Tambien se puede realizar una búsqueda en la base de datos si se conoce la especie, solo colocando en buscador las iniciales del genero y la especie, hay que tener en cuenta que la primera letra del genero es importante que lo anotemos en mayúscula, al no anotarlo de esta manera el resultado de la búsqueda sera una  lista larga.
+De esta manera se puede realizar la búsqueda:
 So ha
 Estas serian las iniciales para Solanum hayesii
 Esta es una forma rápida para realizar la búsqueda si conocemos la especie a consultar
 
-También se puede llevar a cabo una búsqueda de especies en la base de datos si se conoce el nombre vernáculo (nombre común). Esta búsqueda se puede realizar de la siguiente manera por ejemplo para la palma conocida como palma real se ingresade la siguiente forma:
-ver like pal%  o vernacular like pal% al colocar estas primeras letras del nombre vernáculo los resultados obtenidos serian todas las plantas con nombre vernácula que inician con pal.
+También se puede llevar a cabo una búsqueda de especies en la base de datos si se conoce el nombre vernáculo (nombre común). Esta búsqueda se puede realizar de la siguiente manera por ejemplo para la palma conocida como palma real, se ingresa de la siguiente forma:
+ver like pal%  o vernacular like pal% al colocar estas primeras letras del nombre vernáculo los resultados obtenidos serian todas las plantas con nombre vernáculo que inician con pal.
 
