@@ -172,7 +172,6 @@ So ha
 Estas serian las iniciales para Solanum hayesii
 Esta es una forma rápida para realizar la búsqueda si conocemos la especie a consultar
 
-También se puede llevar a cabo uma búsqueda de especies en la base de datos si se conoce el nombre Vernáculo (nombre común). Esta búsqueda se puede realizar de la siguiente forma:
-ver like pal%
-esta sería para buscar la palma real 
+También se puede llevar a cabo una búsqueda de especies en la base de datos si se conoce el nombre vernáculo (nombre común). Esta búsqueda se puede realizar de la siguiente manera por ejemplo para la palma conocida como palma real se ingresade la siguiente forma:
+ver like pal%  o vernacular like pal% al colocar estas primeras letras del nombre vernáculo los resultados obtenidos serian todas las plantas con nombre vernácula que inician con pal.
 
